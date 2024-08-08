@@ -1,0 +1,5 @@
+/home/z/code/rm_train/2024cpp/build/CMakeFiles/edit_cache.dir
+/home/z/code/rm_train/2024cpp/build/CMakeFiles/rebuild_cache.dir
+/home/z/code/rm_train/2024cpp/build/src/CMakeFiles/test.dir
+/home/z/code/rm_train/2024cpp/build/src/CMakeFiles/edit_cache.dir
+/home/z/code/rm_train/2024cpp/build/src/CMakeFiles/rebuild_cache.dir
