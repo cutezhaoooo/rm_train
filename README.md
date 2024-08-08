@@ -11,3 +11,5 @@ cmake ..
 make 
 cd src
 ./test
+
+win里面的测试
