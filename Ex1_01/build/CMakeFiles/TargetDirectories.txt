@@ -1,0 +1,6 @@
+/home/z/code/rm_train/Ex1_01/build/CMakeFiles/edit_cache.dir
+/home/z/code/rm_train/Ex1_01/build/CMakeFiles/rebuild_cache.dir
+/home/z/code/rm_train/Ex1_01/build/src/CMakeFiles/unique_ptr.dir
+/home/z/code/rm_train/Ex1_01/build/src/CMakeFiles/Vector.dir
+/home/z/code/rm_train/Ex1_01/build/src/CMakeFiles/edit_cache.dir
+/home/z/code/rm_train/Ex1_01/build/src/CMakeFiles/rebuild_cache.dir
